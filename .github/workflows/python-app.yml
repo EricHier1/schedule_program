@@ -37,8 +37,8 @@ jobs:
     # - name: Test with pytest
     #   run: |
     #     pytest
-    - name: Create Docker container
-      run: |
-        # Build and run Docker container
-        docker build -t my-python-app .
-        docker run my-python-app
+    # - name: Create Docker container
+    #   run: |
+    #     # Build and run Docker container
+    #     docker build -t my-python-app .
+    #     docker run my-python-app
