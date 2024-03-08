@@ -12,8 +12,7 @@ This Daily Schedule Program is a simple Python application designed to help user
 ### Prerequisites
 - Python 3.x installed on your machine.
 
-### Installation
-Clone the repository to your local machine or download the source code.
+### Clone the Repo
     git clone https://github.com/EricHier1/schedule_program.git
     cd schedule_program
 
