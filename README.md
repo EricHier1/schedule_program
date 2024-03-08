@@ -17,15 +17,15 @@ This Daily Schedule Program is a simple Python application designed to help user
     git clone https://github.com/EricHier1/schedule_program.git
     cd schedule_program
 
-    # For Windows
+### For Windows
     python -m venv env
     .\env\Scripts\activate
 
-    # For macOS and Linux
+### For macOS and Linux
     python3 -m venv env
     source env/bin/activate
 
-    #Running the Program
+### Running the Program
     python main.py  # On Windows
     python3 main.py  # On macOS and Linux
 
